@@ -20,6 +20,13 @@ const Navbar = () => {
                 React Jobs
               </span>
             </NavLink>
+
+
+            <div >
+              <input type="search" name="" id="" />
+            </div>
+
+            
             <div className="md:ml-auto">
               <div className="flex space-x-2">
                 <NavLink
